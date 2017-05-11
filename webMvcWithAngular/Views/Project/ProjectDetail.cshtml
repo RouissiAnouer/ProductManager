@@ -1,0 +1,33 @@
+﻿<h2>Détail projet</h2>
+<div id="content" ng-controller="ProjectController">
+    <div>
+        <span style="color: red">{{message}}</span>
+        
+    </div>
+    <hr />
+    <form name="frmProject" novalidate>
+        <div>
+            <input type="hidden" ng-model="project.ProjectId" name="cid" />
+        </div>
+        <div>
+            <label for="ctitle">Titre</label>
+            <input type="text" ng-model="project.Title" name="ctitle" placeholder="" required ng-minlength="4" ng-maxlength="50" />
+            <span class="error" ng-show="(frmProject.$dirty||submitted) && frmProject.ctitle.$error.required">Titre du projet est obligatoire</span>
+            <span class="error" ng-show="frmProject.$dirty && frmProject.ctitle.$error.minlength">Taille minimale est 4</span>
+            <span class="error" ng-show="frmProject.$dirty && frmProject.ctitle.$error.maxlength">Taille maximale est 50</span>
+        </div>
+        <div>
+            <label for="cdesc">Description</label>
+            <input type="text" ng-model="project.Description" name="cdesc" placeholder="" />
+        </div>
+        <div class="btn">
+            <input type="submit" value="Valider" ng-click="validate()">
+            <input type="submit" value="Annuler" ng-click="cancel()">
+        </div>
+    </form>
+</div>
+
+@section JavaScript{
+
+    <script src="~/App/controller/ProjectController.js"></script>
+}

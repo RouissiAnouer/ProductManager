@@ -1,0 +1,30 @@
+C:\Users\user\Downloads\ASP.NET_MVC_5_with_AngularJS\ASP.NET MVC 5 with AngularJS\data\bin\Debug\data.dll.config
+C:\Users\user\Downloads\ASP.NET_MVC_5_with_AngularJS\ASP.NET MVC 5 with AngularJS\data\bin\Debug\data.dll
+C:\Users\user\Downloads\ASP.NET_MVC_5_with_AngularJS\ASP.NET MVC 5 with AngularJS\data\bin\Debug\data.pdb
+C:\Users\user\Downloads\ASP.NET_MVC_5_with_AngularJS\ASP.NET MVC 5 with AngularJS\data\bin\Debug\EntityFramework.dll
+C:\Users\user\Downloads\ASP.NET_MVC_5_with_AngularJS\ASP.NET MVC 5 with AngularJS\data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\user\Downloads\ASP.NET_MVC_5_with_AngularJS\ASP.NET MVC 5 with AngularJS\data\bin\Debug\EntityFramework.xml
+C:\Users\user\Downloads\ASP.NET_MVC_5_with_AngularJS\ASP.NET MVC 5 with AngularJS\data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\user\Downloads\ASP.NET_MVC_5_with_AngularJS\ASP.NET MVC 5 with AngularJS\data\obj\Debug\data.csprojResolveAssemblyReference.cache
+C:\Users\user\Downloads\ASP.NET_MVC_5_with_AngularJS\ASP.NET MVC 5 with AngularJS\data\obj\Debug\data.dll
+C:\Users\user\Downloads\ASP.NET_MVC_5_with_AngularJS\ASP.NET MVC 5 with AngularJS\data\obj\Debug\data.pdb
+C:\_work\02 Formation\03 Formations\mvc\ASPNET mvc Intro\project\data\bin\Debug\data.dll.config
+C:\_work\02 Formation\03 Formations\mvc\ASPNET mvc Intro\project\data\bin\Debug\data.dll
+C:\_work\02 Formation\03 Formations\mvc\ASPNET mvc Intro\project\data\bin\Debug\data.pdb
+C:\_work\02 Formation\03 Formations\mvc\ASPNET mvc Intro\project\data\bin\Debug\EntityFramework.dll
+C:\_work\02 Formation\03 Formations\mvc\ASPNET mvc Intro\project\data\bin\Debug\EntityFramework.SqlServer.dll
+C:\_work\02 Formation\03 Formations\mvc\ASPNET mvc Intro\project\data\bin\Debug\EntityFramework.xml
+C:\_work\02 Formation\03 Formations\mvc\ASPNET mvc Intro\project\data\bin\Debug\EntityFramework.SqlServer.xml
+C:\_work\02 Formation\03 Formations\mvc\ASPNET mvc Intro\project\data\obj\Debug\data.csprojResolveAssemblyReference.cache
+C:\_work\02 Formation\03 Formations\mvc\ASPNET mvc Intro\project\data\obj\Debug\data.dll
+C:\_work\02 Formation\03 Formations\mvc\ASPNET mvc Intro\project\data\obj\Debug\data.pdb
+C:\Users\Anouer\Desktop\Cours\CSharp .Net\project\data\bin\Debug\data.dll.config
+C:\Users\Anouer\Desktop\Cours\CSharp .Net\project\data\bin\Debug\data.dll
+C:\Users\Anouer\Desktop\Cours\CSharp .Net\project\data\bin\Debug\data.pdb
+C:\Users\Anouer\Desktop\Cours\CSharp .Net\project\data\bin\Debug\EntityFramework.dll
+C:\Users\Anouer\Desktop\Cours\CSharp .Net\project\data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Anouer\Desktop\Cours\CSharp .Net\project\data\bin\Debug\EntityFramework.xml
+C:\Users\Anouer\Desktop\Cours\CSharp .Net\project\data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Anouer\Desktop\Cours\CSharp .Net\project\data\obj\Debug\data.csprojResolveAssemblyReference.cache
+C:\Users\Anouer\Desktop\Cours\CSharp .Net\project\data\obj\Debug\data.dll
+C:\Users\Anouer\Desktop\Cours\CSharp .Net\project\data\obj\Debug\data.pdb

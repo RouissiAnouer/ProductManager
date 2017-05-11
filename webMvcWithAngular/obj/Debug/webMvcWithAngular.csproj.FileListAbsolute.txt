@@ -1,0 +1,249 @@
+C:\Users\user\Downloads\ASP.NET_MVC_5_with_AngularJS\ASP.NET MVC 5 with AngularJS\web03\bin\webMvcWithAngular.dll.config
+C:\Users\user\Downloads\ASP.NET_MVC_5_with_AngularJS\ASP.NET MVC 5 with AngularJS\web03\bin\webMvcWithAngular.dll
+C:\Users\user\Downloads\ASP.NET_MVC_5_with_AngularJS\ASP.NET MVC 5 with AngularJS\web03\bin\webMvcWithAngular.pdb
+C:\Users\user\Downloads\ASP.NET_MVC_5_with_AngularJS\ASP.NET MVC 5 with AngularJS\web03\bin\DotNetOpenAuth.AspNet.dll
+C:\Users\user\Downloads\ASP.NET_MVC_5_with_AngularJS\ASP.NET MVC 5 with AngularJS\web03\bin\DotNetOpenAuth.Core.dll
+C:\Users\user\Downloads\ASP.NET_MVC_5_with_AngularJS\ASP.NET MVC 5 with AngularJS\web03\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\user\Downloads\ASP.NET_MVC_5_with_AngularJS\ASP.NET MVC 5 with AngularJS\web03\bin\DotNetOpenAuth.OAuth.dll
+C:\Users\user\Downloads\ASP.NET_MVC_5_with_AngularJS\ASP.NET MVC 5 with AngularJS\web03\bin\DotNetOpenAuth.OpenId.dll
+C:\Users\user\Downloads\ASP.NET_MVC_5_with_AngularJS\ASP.NET MVC 5 with AngularJS\web03\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\user\Downloads\ASP.NET_MVC_5_with_AngularJS\ASP.NET MVC 5 with AngularJS\web03\bin\EntityFramework.dll
+C:\Users\user\Downloads\ASP.NET_MVC_5_with_AngularJS\ASP.NET MVC 5 with AngularJS\web03\bin\EntityFramework.SqlServer.dll
+C:\Users\user\Downloads\ASP.NET_MVC_5_with_AngularJS\ASP.NET MVC 5 with AngularJS\web03\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\user\Downloads\ASP.NET_MVC_5_with_AngularJS\ASP.NET MVC 5 with AngularJS\web03\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\Users\user\Downloads\ASP.NET_MVC_5_with_AngularJS\ASP.NET MVC 5 with AngularJS\web03\bin\Newtonsoft.Json.dll
+C:\Users\user\Downloads\ASP.NET_MVC_5_with_AngularJS\ASP.NET MVC 5 with AngularJS\web03\bin\System.Net.Http.Formatting.dll
+C:\Users\user\Downloads\ASP.NET_MVC_5_with_AngularJS\ASP.NET MVC 5 with AngularJS\web03\bin\System.Web.Helpers.dll
+C:\Users\user\Downloads\ASP.NET_MVC_5_with_AngularJS\ASP.NET MVC 5 with AngularJS\web03\bin\System.Web.Http.dll
+C:\Users\user\Downloads\ASP.NET_MVC_5_with_AngularJS\ASP.NET MVC 5 with AngularJS\web03\bin\System.Web.Http.WebHost.dll
+C:\Users\user\Downloads\ASP.NET_MVC_5_with_AngularJS\ASP.NET MVC 5 with AngularJS\web03\bin\System.Web.Mvc.dll
+C:\Users\user\Downloads\ASP.NET_MVC_5_with_AngularJS\ASP.NET MVC 5 with AngularJS\web03\bin\System.Web.Optimization.dll
+C:\Users\user\Downloads\ASP.NET_MVC_5_with_AngularJS\ASP.NET MVC 5 with AngularJS\web03\bin\System.Web.Razor.dll
+C:\Users\user\Downloads\ASP.NET_MVC_5_with_AngularJS\ASP.NET MVC 5 with AngularJS\web03\bin\System.Web.WebPages.Deployment.dll
+C:\Users\user\Downloads\ASP.NET_MVC_5_with_AngularJS\ASP.NET MVC 5 with AngularJS\web03\bin\System.Web.WebPages.dll
+C:\Users\user\Downloads\ASP.NET_MVC_5_with_AngularJS\ASP.NET MVC 5 with AngularJS\web03\bin\System.Web.WebPages.Razor.dll
+C:\Users\user\Downloads\ASP.NET_MVC_5_with_AngularJS\ASP.NET MVC 5 with AngularJS\web03\bin\Org.Mentalis.Security.Cryptography.dll
+C:\Users\user\Downloads\ASP.NET_MVC_5_with_AngularJS\ASP.NET MVC 5 with AngularJS\web03\bin\Mono.Math.dll
+C:\Users\user\Downloads\ASP.NET_MVC_5_with_AngularJS\ASP.NET MVC 5 with AngularJS\web03\bin\DotNetOpenAuth.AspNet.xml
+C:\Users\user\Downloads\ASP.NET_MVC_5_with_AngularJS\ASP.NET MVC 5 with AngularJS\web03\bin\DotNetOpenAuth.Core.xml
+C:\Users\user\Downloads\ASP.NET_MVC_5_with_AngularJS\ASP.NET MVC 5 with AngularJS\web03\bin\DotNetOpenAuth.OAuth.xml
+C:\Users\user\Downloads\ASP.NET_MVC_5_with_AngularJS\ASP.NET MVC 5 with AngularJS\web03\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\user\Downloads\ASP.NET_MVC_5_with_AngularJS\ASP.NET MVC 5 with AngularJS\web03\bin\DotNetOpenAuth.OpenId.xml
+C:\Users\user\Downloads\ASP.NET_MVC_5_with_AngularJS\ASP.NET MVC 5 with AngularJS\web03\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\user\Downloads\ASP.NET_MVC_5_with_AngularJS\ASP.NET MVC 5 with AngularJS\web03\bin\EntityFramework.xml
+C:\Users\user\Downloads\ASP.NET_MVC_5_with_AngularJS\ASP.NET MVC 5 with AngularJS\web03\bin\EntityFramework.SqlServer.xml
+C:\Users\user\Downloads\ASP.NET_MVC_5_with_AngularJS\ASP.NET MVC 5 with AngularJS\web03\bin\System.Web.Razor.xml
+C:\Users\user\Downloads\ASP.NET_MVC_5_with_AngularJS\ASP.NET MVC 5 with AngularJS\web03\bin\Newtonsoft.Json.xml
+C:\Users\user\Downloads\ASP.NET_MVC_5_with_AngularJS\ASP.NET MVC 5 with AngularJS\web03\bin\System.Net.Http.Formatting.xml
+C:\Users\user\Downloads\ASP.NET_MVC_5_with_AngularJS\ASP.NET MVC 5 with AngularJS\web03\bin\System.Web.Helpers.xml
+C:\Users\user\Downloads\ASP.NET_MVC_5_with_AngularJS\ASP.NET MVC 5 with AngularJS\web03\bin\System.Web.Http.xml
+C:\Users\user\Downloads\ASP.NET_MVC_5_with_AngularJS\ASP.NET MVC 5 with AngularJS\web03\bin\System.Web.Http.WebHost.xml
+C:\Users\user\Downloads\ASP.NET_MVC_5_with_AngularJS\ASP.NET MVC 5 with AngularJS\web03\bin\System.Web.Mvc.xml
+C:\Users\user\Downloads\ASP.NET_MVC_5_with_AngularJS\ASP.NET MVC 5 with AngularJS\web03\bin\System.Web.WebPages.xml
+C:\Users\user\Downloads\ASP.NET_MVC_5_with_AngularJS\ASP.NET MVC 5 with AngularJS\web03\bin\System.Web.WebPages.Deployment.xml
+C:\Users\user\Downloads\ASP.NET_MVC_5_with_AngularJS\ASP.NET MVC 5 with AngularJS\web03\bin\System.Web.WebPages.Razor.xml
+C:\Users\user\Downloads\ASP.NET_MVC_5_with_AngularJS\ASP.NET MVC 5 with AngularJS\web03\bin\Org.Mentalis.Security.Cryptography.xml
+C:\Users\user\Downloads\ASP.NET_MVC_5_with_AngularJS\ASP.NET MVC 5 with AngularJS\web03\bin\Mono.Math.xml
+C:\Users\user\Downloads\ASP.NET_MVC_5_with_AngularJS\ASP.NET MVC 5 with AngularJS\web03\obj\Debug\webMvcWithAngular.csprojResolveAssemblyReference.cache
+C:\Users\user\Downloads\ASP.NET_MVC_5_with_AngularJS\ASP.NET MVC 5 with AngularJS\web03\obj\Debug\webMvcWithAngular.dll
+C:\Users\user\Downloads\ASP.NET_MVC_5_with_AngularJS\ASP.NET MVC 5 with AngularJS\web03\obj\Debug\webMvcWithAngular.pdb
+C:\Users\user\Downloads\ASP.NET_MVC_5_with_AngularJS\ASP.NET MVC 5 with AngularJS\webMvcWithAngular\bin\webMvcWithAngular.dll.config
+C:\Users\user\Downloads\ASP.NET_MVC_5_with_AngularJS\ASP.NET MVC 5 with AngularJS\webMvcWithAngular\bin\webMvcWithAngular.dll
+C:\Users\user\Downloads\ASP.NET_MVC_5_with_AngularJS\ASP.NET MVC 5 with AngularJS\webMvcWithAngular\bin\webMvcWithAngular.pdb
+C:\Users\user\Downloads\ASP.NET_MVC_5_with_AngularJS\ASP.NET MVC 5 with AngularJS\webMvcWithAngular\bin\DotNetOpenAuth.AspNet.dll
+C:\Users\user\Downloads\ASP.NET_MVC_5_with_AngularJS\ASP.NET MVC 5 with AngularJS\webMvcWithAngular\bin\DotNetOpenAuth.Core.dll
+C:\Users\user\Downloads\ASP.NET_MVC_5_with_AngularJS\ASP.NET MVC 5 with AngularJS\webMvcWithAngular\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\user\Downloads\ASP.NET_MVC_5_with_AngularJS\ASP.NET MVC 5 with AngularJS\webMvcWithAngular\bin\DotNetOpenAuth.OAuth.dll
+C:\Users\user\Downloads\ASP.NET_MVC_5_with_AngularJS\ASP.NET MVC 5 with AngularJS\webMvcWithAngular\bin\DotNetOpenAuth.OpenId.dll
+C:\Users\user\Downloads\ASP.NET_MVC_5_with_AngularJS\ASP.NET MVC 5 with AngularJS\webMvcWithAngular\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\user\Downloads\ASP.NET_MVC_5_with_AngularJS\ASP.NET MVC 5 with AngularJS\webMvcWithAngular\bin\EntityFramework.dll
+C:\Users\user\Downloads\ASP.NET_MVC_5_with_AngularJS\ASP.NET MVC 5 with AngularJS\webMvcWithAngular\bin\EntityFramework.SqlServer.dll
+C:\Users\user\Downloads\ASP.NET_MVC_5_with_AngularJS\ASP.NET MVC 5 with AngularJS\webMvcWithAngular\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\user\Downloads\ASP.NET_MVC_5_with_AngularJS\ASP.NET MVC 5 with AngularJS\webMvcWithAngular\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\Users\user\Downloads\ASP.NET_MVC_5_with_AngularJS\ASP.NET MVC 5 with AngularJS\webMvcWithAngular\bin\Newtonsoft.Json.dll
+C:\Users\user\Downloads\ASP.NET_MVC_5_with_AngularJS\ASP.NET MVC 5 with AngularJS\webMvcWithAngular\bin\System.Net.Http.Formatting.dll
+C:\Users\user\Downloads\ASP.NET_MVC_5_with_AngularJS\ASP.NET MVC 5 with AngularJS\webMvcWithAngular\bin\System.Web.Helpers.dll
+C:\Users\user\Downloads\ASP.NET_MVC_5_with_AngularJS\ASP.NET MVC 5 with AngularJS\webMvcWithAngular\bin\System.Web.Http.dll
+C:\Users\user\Downloads\ASP.NET_MVC_5_with_AngularJS\ASP.NET MVC 5 with AngularJS\webMvcWithAngular\bin\System.Web.Http.WebHost.dll
+C:\Users\user\Downloads\ASP.NET_MVC_5_with_AngularJS\ASP.NET MVC 5 with AngularJS\webMvcWithAngular\bin\System.Web.Mvc.dll
+C:\Users\user\Downloads\ASP.NET_MVC_5_with_AngularJS\ASP.NET MVC 5 with AngularJS\webMvcWithAngular\bin\System.Web.Optimization.dll
+C:\Users\user\Downloads\ASP.NET_MVC_5_with_AngularJS\ASP.NET MVC 5 with AngularJS\webMvcWithAngular\bin\System.Web.Razor.dll
+C:\Users\user\Downloads\ASP.NET_MVC_5_with_AngularJS\ASP.NET MVC 5 with AngularJS\webMvcWithAngular\bin\System.Web.WebPages.Deployment.dll
+C:\Users\user\Downloads\ASP.NET_MVC_5_with_AngularJS\ASP.NET MVC 5 with AngularJS\webMvcWithAngular\bin\System.Web.WebPages.dll
+C:\Users\user\Downloads\ASP.NET_MVC_5_with_AngularJS\ASP.NET MVC 5 with AngularJS\webMvcWithAngular\bin\System.Web.WebPages.Razor.dll
+C:\Users\user\Downloads\ASP.NET_MVC_5_with_AngularJS\ASP.NET MVC 5 with AngularJS\webMvcWithAngular\bin\Org.Mentalis.Security.Cryptography.dll
+C:\Users\user\Downloads\ASP.NET_MVC_5_with_AngularJS\ASP.NET MVC 5 with AngularJS\webMvcWithAngular\bin\Mono.Math.dll
+C:\Users\user\Downloads\ASP.NET_MVC_5_with_AngularJS\ASP.NET MVC 5 with AngularJS\webMvcWithAngular\bin\DotNetOpenAuth.AspNet.xml
+C:\Users\user\Downloads\ASP.NET_MVC_5_with_AngularJS\ASP.NET MVC 5 with AngularJS\webMvcWithAngular\bin\DotNetOpenAuth.Core.xml
+C:\Users\user\Downloads\ASP.NET_MVC_5_with_AngularJS\ASP.NET MVC 5 with AngularJS\webMvcWithAngular\bin\DotNetOpenAuth.OAuth.xml
+C:\Users\user\Downloads\ASP.NET_MVC_5_with_AngularJS\ASP.NET MVC 5 with AngularJS\webMvcWithAngular\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\user\Downloads\ASP.NET_MVC_5_with_AngularJS\ASP.NET MVC 5 with AngularJS\webMvcWithAngular\bin\DotNetOpenAuth.OpenId.xml
+C:\Users\user\Downloads\ASP.NET_MVC_5_with_AngularJS\ASP.NET MVC 5 with AngularJS\webMvcWithAngular\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\user\Downloads\ASP.NET_MVC_5_with_AngularJS\ASP.NET MVC 5 with AngularJS\webMvcWithAngular\bin\EntityFramework.xml
+C:\Users\user\Downloads\ASP.NET_MVC_5_with_AngularJS\ASP.NET MVC 5 with AngularJS\webMvcWithAngular\bin\EntityFramework.SqlServer.xml
+C:\Users\user\Downloads\ASP.NET_MVC_5_with_AngularJS\ASP.NET MVC 5 with AngularJS\webMvcWithAngular\bin\System.Web.Razor.xml
+C:\Users\user\Downloads\ASP.NET_MVC_5_with_AngularJS\ASP.NET MVC 5 with AngularJS\webMvcWithAngular\bin\Newtonsoft.Json.xml
+C:\Users\user\Downloads\ASP.NET_MVC_5_with_AngularJS\ASP.NET MVC 5 with AngularJS\webMvcWithAngular\bin\System.Net.Http.Formatting.xml
+C:\Users\user\Downloads\ASP.NET_MVC_5_with_AngularJS\ASP.NET MVC 5 with AngularJS\webMvcWithAngular\bin\System.Web.Helpers.xml
+C:\Users\user\Downloads\ASP.NET_MVC_5_with_AngularJS\ASP.NET MVC 5 with AngularJS\webMvcWithAngular\bin\System.Web.Http.xml
+C:\Users\user\Downloads\ASP.NET_MVC_5_with_AngularJS\ASP.NET MVC 5 with AngularJS\webMvcWithAngular\bin\System.Web.Http.WebHost.xml
+C:\Users\user\Downloads\ASP.NET_MVC_5_with_AngularJS\ASP.NET MVC 5 with AngularJS\webMvcWithAngular\bin\System.Web.Mvc.xml
+C:\Users\user\Downloads\ASP.NET_MVC_5_with_AngularJS\ASP.NET MVC 5 with AngularJS\webMvcWithAngular\bin\System.Web.WebPages.xml
+C:\Users\user\Downloads\ASP.NET_MVC_5_with_AngularJS\ASP.NET MVC 5 with AngularJS\webMvcWithAngular\bin\System.Web.WebPages.Deployment.xml
+C:\Users\user\Downloads\ASP.NET_MVC_5_with_AngularJS\ASP.NET MVC 5 with AngularJS\webMvcWithAngular\bin\System.Web.WebPages.Razor.xml
+C:\Users\user\Downloads\ASP.NET_MVC_5_with_AngularJS\ASP.NET MVC 5 with AngularJS\webMvcWithAngular\bin\Org.Mentalis.Security.Cryptography.xml
+C:\Users\user\Downloads\ASP.NET_MVC_5_with_AngularJS\ASP.NET MVC 5 with AngularJS\webMvcWithAngular\bin\Mono.Math.xml
+C:\Users\user\Downloads\ASP.NET_MVC_5_with_AngularJS\ASP.NET MVC 5 with AngularJS\webMvcWithAngular\obj\Debug\webMvcWithAngular.csprojResolveAssemblyReference.cache
+C:\Users\user\Downloads\ASP.NET_MVC_5_with_AngularJS\ASP.NET MVC 5 with AngularJS\webMvcWithAngular\obj\Debug\webMvcWithAngular.dll
+C:\Users\user\Downloads\ASP.NET_MVC_5_with_AngularJS\ASP.NET MVC 5 with AngularJS\webMvcWithAngular\obj\Debug\webMvcWithAngular.pdb
+G:\ASPNET mvc Intro\project\webMvcWithAngular\bin\webMvcWithAngular.dll.config
+G:\ASPNET mvc Intro\project\webMvcWithAngular\bin\webMvcWithAngular.dll
+G:\ASPNET mvc Intro\project\webMvcWithAngular\bin\webMvcWithAngular.pdb
+G:\ASPNET mvc Intro\project\webMvcWithAngular\bin\DotNetOpenAuth.AspNet.dll
+G:\ASPNET mvc Intro\project\webMvcWithAngular\bin\DotNetOpenAuth.Core.dll
+G:\ASPNET mvc Intro\project\webMvcWithAngular\bin\DotNetOpenAuth.OAuth.Consumer.dll
+G:\ASPNET mvc Intro\project\webMvcWithAngular\bin\DotNetOpenAuth.OAuth.dll
+G:\ASPNET mvc Intro\project\webMvcWithAngular\bin\DotNetOpenAuth.OpenId.dll
+G:\ASPNET mvc Intro\project\webMvcWithAngular\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+G:\ASPNET mvc Intro\project\webMvcWithAngular\bin\EntityFramework.dll
+G:\ASPNET mvc Intro\project\webMvcWithAngular\bin\EntityFramework.SqlServer.dll
+G:\ASPNET mvc Intro\project\webMvcWithAngular\bin\Microsoft.Web.Infrastructure.dll
+G:\ASPNET mvc Intro\project\webMvcWithAngular\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+G:\ASPNET mvc Intro\project\webMvcWithAngular\bin\Newtonsoft.Json.dll
+G:\ASPNET mvc Intro\project\webMvcWithAngular\bin\System.Net.Http.Formatting.dll
+G:\ASPNET mvc Intro\project\webMvcWithAngular\bin\System.Web.Helpers.dll
+G:\ASPNET mvc Intro\project\webMvcWithAngular\bin\System.Web.Http.dll
+G:\ASPNET mvc Intro\project\webMvcWithAngular\bin\System.Web.Http.WebHost.dll
+G:\ASPNET mvc Intro\project\webMvcWithAngular\bin\System.Web.Mvc.dll
+G:\ASPNET mvc Intro\project\webMvcWithAngular\bin\System.Web.Optimization.dll
+G:\ASPNET mvc Intro\project\webMvcWithAngular\bin\System.Web.Razor.dll
+G:\ASPNET mvc Intro\project\webMvcWithAngular\bin\System.Web.WebPages.Deployment.dll
+G:\ASPNET mvc Intro\project\webMvcWithAngular\bin\System.Web.WebPages.dll
+G:\ASPNET mvc Intro\project\webMvcWithAngular\bin\System.Web.WebPages.Razor.dll
+G:\ASPNET mvc Intro\project\webMvcWithAngular\bin\Org.Mentalis.Security.Cryptography.dll
+G:\ASPNET mvc Intro\project\webMvcWithAngular\bin\Mono.Math.dll
+G:\ASPNET mvc Intro\project\webMvcWithAngular\bin\DotNetOpenAuth.AspNet.xml
+G:\ASPNET mvc Intro\project\webMvcWithAngular\bin\DotNetOpenAuth.Core.xml
+G:\ASPNET mvc Intro\project\webMvcWithAngular\bin\DotNetOpenAuth.OAuth.xml
+G:\ASPNET mvc Intro\project\webMvcWithAngular\bin\DotNetOpenAuth.OAuth.Consumer.xml
+G:\ASPNET mvc Intro\project\webMvcWithAngular\bin\DotNetOpenAuth.OpenId.xml
+G:\ASPNET mvc Intro\project\webMvcWithAngular\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+G:\ASPNET mvc Intro\project\webMvcWithAngular\bin\EntityFramework.xml
+G:\ASPNET mvc Intro\project\webMvcWithAngular\bin\EntityFramework.SqlServer.xml
+G:\ASPNET mvc Intro\project\webMvcWithAngular\bin\System.Web.Razor.xml
+G:\ASPNET mvc Intro\project\webMvcWithAngular\bin\Newtonsoft.Json.xml
+G:\ASPNET mvc Intro\project\webMvcWithAngular\bin\System.Net.Http.Formatting.xml
+G:\ASPNET mvc Intro\project\webMvcWithAngular\bin\System.Web.Helpers.xml
+G:\ASPNET mvc Intro\project\webMvcWithAngular\bin\System.Web.Http.xml
+G:\ASPNET mvc Intro\project\webMvcWithAngular\bin\System.Web.Http.WebHost.xml
+G:\ASPNET mvc Intro\project\webMvcWithAngular\bin\System.Web.Mvc.xml
+G:\ASPNET mvc Intro\project\webMvcWithAngular\bin\System.Web.WebPages.xml
+G:\ASPNET mvc Intro\project\webMvcWithAngular\bin\System.Web.WebPages.Deployment.xml
+G:\ASPNET mvc Intro\project\webMvcWithAngular\bin\System.Web.WebPages.Razor.xml
+G:\ASPNET mvc Intro\project\webMvcWithAngular\bin\Org.Mentalis.Security.Cryptography.xml
+G:\ASPNET mvc Intro\project\webMvcWithAngular\bin\Mono.Math.xml
+G:\ASPNET mvc Intro\project\webMvcWithAngular\obj\Debug\webMvcWithAngular.csprojResolveAssemblyReference.cache
+G:\ASPNET mvc Intro\project\webMvcWithAngular\obj\Debug\webMvcWithAngular.dll
+G:\ASPNET mvc Intro\project\webMvcWithAngular\obj\Debug\webMvcWithAngular.pdb
+C:\_work\02 Formation\03 Formations\mvc\ASPNET mvc Intro\project\webMvcWithAngular\bin\webMvcWithAngular.dll.config
+C:\_work\02 Formation\03 Formations\mvc\ASPNET mvc Intro\project\webMvcWithAngular\bin\webMvcWithAngular.dll
+C:\_work\02 Formation\03 Formations\mvc\ASPNET mvc Intro\project\webMvcWithAngular\bin\webMvcWithAngular.pdb
+C:\_work\02 Formation\03 Formations\mvc\ASPNET mvc Intro\project\webMvcWithAngular\bin\DotNetOpenAuth.AspNet.dll
+C:\_work\02 Formation\03 Formations\mvc\ASPNET mvc Intro\project\webMvcWithAngular\bin\DotNetOpenAuth.Core.dll
+C:\_work\02 Formation\03 Formations\mvc\ASPNET mvc Intro\project\webMvcWithAngular\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\_work\02 Formation\03 Formations\mvc\ASPNET mvc Intro\project\webMvcWithAngular\bin\DotNetOpenAuth.OAuth.dll
+C:\_work\02 Formation\03 Formations\mvc\ASPNET mvc Intro\project\webMvcWithAngular\bin\DotNetOpenAuth.OpenId.dll
+C:\_work\02 Formation\03 Formations\mvc\ASPNET mvc Intro\project\webMvcWithAngular\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\_work\02 Formation\03 Formations\mvc\ASPNET mvc Intro\project\webMvcWithAngular\bin\EntityFramework.dll
+C:\_work\02 Formation\03 Formations\mvc\ASPNET mvc Intro\project\webMvcWithAngular\bin\EntityFramework.SqlServer.dll
+C:\_work\02 Formation\03 Formations\mvc\ASPNET mvc Intro\project\webMvcWithAngular\bin\Microsoft.Web.Infrastructure.dll
+C:\_work\02 Formation\03 Formations\mvc\ASPNET mvc Intro\project\webMvcWithAngular\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\_work\02 Formation\03 Formations\mvc\ASPNET mvc Intro\project\webMvcWithAngular\bin\Newtonsoft.Json.dll
+C:\_work\02 Formation\03 Formations\mvc\ASPNET mvc Intro\project\webMvcWithAngular\bin\System.Net.Http.Formatting.dll
+C:\_work\02 Formation\03 Formations\mvc\ASPNET mvc Intro\project\webMvcWithAngular\bin\System.Web.Helpers.dll
+C:\_work\02 Formation\03 Formations\mvc\ASPNET mvc Intro\project\webMvcWithAngular\bin\System.Web.Http.dll
+C:\_work\02 Formation\03 Formations\mvc\ASPNET mvc Intro\project\webMvcWithAngular\bin\System.Web.Http.WebHost.dll
+C:\_work\02 Formation\03 Formations\mvc\ASPNET mvc Intro\project\webMvcWithAngular\bin\System.Web.Mvc.dll
+C:\_work\02 Formation\03 Formations\mvc\ASPNET mvc Intro\project\webMvcWithAngular\bin\System.Web.Optimization.dll
+C:\_work\02 Formation\03 Formations\mvc\ASPNET mvc Intro\project\webMvcWithAngular\bin\System.Web.Razor.dll
+C:\_work\02 Formation\03 Formations\mvc\ASPNET mvc Intro\project\webMvcWithAngular\bin\System.Web.WebPages.Deployment.dll
+C:\_work\02 Formation\03 Formations\mvc\ASPNET mvc Intro\project\webMvcWithAngular\bin\System.Web.WebPages.dll
+C:\_work\02 Formation\03 Formations\mvc\ASPNET mvc Intro\project\webMvcWithAngular\bin\System.Web.WebPages.Razor.dll
+C:\_work\02 Formation\03 Formations\mvc\ASPNET mvc Intro\project\webMvcWithAngular\bin\Org.Mentalis.Security.Cryptography.dll
+C:\_work\02 Formation\03 Formations\mvc\ASPNET mvc Intro\project\webMvcWithAngular\bin\Mono.Math.dll
+C:\_work\02 Formation\03 Formations\mvc\ASPNET mvc Intro\project\webMvcWithAngular\bin\DotNetOpenAuth.AspNet.xml
+C:\_work\02 Formation\03 Formations\mvc\ASPNET mvc Intro\project\webMvcWithAngular\bin\DotNetOpenAuth.Core.xml
+C:\_work\02 Formation\03 Formations\mvc\ASPNET mvc Intro\project\webMvcWithAngular\bin\DotNetOpenAuth.OAuth.xml
+C:\_work\02 Formation\03 Formations\mvc\ASPNET mvc Intro\project\webMvcWithAngular\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\_work\02 Formation\03 Formations\mvc\ASPNET mvc Intro\project\webMvcWithAngular\bin\DotNetOpenAuth.OpenId.xml
+C:\_work\02 Formation\03 Formations\mvc\ASPNET mvc Intro\project\webMvcWithAngular\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\_work\02 Formation\03 Formations\mvc\ASPNET mvc Intro\project\webMvcWithAngular\bin\EntityFramework.xml
+C:\_work\02 Formation\03 Formations\mvc\ASPNET mvc Intro\project\webMvcWithAngular\bin\EntityFramework.SqlServer.xml
+C:\_work\02 Formation\03 Formations\mvc\ASPNET mvc Intro\project\webMvcWithAngular\bin\System.Web.Razor.xml
+C:\_work\02 Formation\03 Formations\mvc\ASPNET mvc Intro\project\webMvcWithAngular\bin\Newtonsoft.Json.xml
+C:\_work\02 Formation\03 Formations\mvc\ASPNET mvc Intro\project\webMvcWithAngular\bin\System.Net.Http.Formatting.xml
+C:\_work\02 Formation\03 Formations\mvc\ASPNET mvc Intro\project\webMvcWithAngular\bin\System.Web.Helpers.xml
+C:\_work\02 Formation\03 Formations\mvc\ASPNET mvc Intro\project\webMvcWithAngular\bin\System.Web.Http.xml
+C:\_work\02 Formation\03 Formations\mvc\ASPNET mvc Intro\project\webMvcWithAngular\bin\System.Web.Http.WebHost.xml
+C:\_work\02 Formation\03 Formations\mvc\ASPNET mvc Intro\project\webMvcWithAngular\bin\System.Web.Mvc.xml
+C:\_work\02 Formation\03 Formations\mvc\ASPNET mvc Intro\project\webMvcWithAngular\bin\System.Web.WebPages.xml
+C:\_work\02 Formation\03 Formations\mvc\ASPNET mvc Intro\project\webMvcWithAngular\bin\System.Web.WebPages.Deployment.xml
+C:\_work\02 Formation\03 Formations\mvc\ASPNET mvc Intro\project\webMvcWithAngular\bin\System.Web.WebPages.Razor.xml
+C:\_work\02 Formation\03 Formations\mvc\ASPNET mvc Intro\project\webMvcWithAngular\bin\Org.Mentalis.Security.Cryptography.xml
+C:\_work\02 Formation\03 Formations\mvc\ASPNET mvc Intro\project\webMvcWithAngular\bin\Mono.Math.xml
+C:\_work\02 Formation\03 Formations\mvc\ASPNET mvc Intro\project\webMvcWithAngular\obj\Debug\webMvcWithAngular.csprojResolveAssemblyReference.cache
+C:\_work\02 Formation\03 Formations\mvc\ASPNET mvc Intro\project\webMvcWithAngular\obj\Debug\webMvcWithAngular.dll
+C:\_work\02 Formation\03 Formations\mvc\ASPNET mvc Intro\project\webMvcWithAngular\obj\Debug\webMvcWithAngular.pdb
+C:\_work\02 Formation\03 Formations\mvc\ASPNET mvc Intro\project\webMvcWithAngular\bin\data.dll
+C:\_work\02 Formation\03 Formations\mvc\ASPNET mvc Intro\project\webMvcWithAngular\bin\data.pdb
+C:\Users\Anouer\Desktop\Cours\CSharp .Net\project\webMvcWithAngular\bin\webMvcWithAngular.dll.config
+C:\Users\Anouer\Desktop\Cours\CSharp .Net\project\webMvcWithAngular\bin\webMvcWithAngular.dll
+C:\Users\Anouer\Desktop\Cours\CSharp .Net\project\webMvcWithAngular\bin\webMvcWithAngular.pdb
+C:\Users\Anouer\Desktop\Cours\CSharp .Net\project\webMvcWithAngular\bin\data.dll
+C:\Users\Anouer\Desktop\Cours\CSharp .Net\project\webMvcWithAngular\bin\DotNetOpenAuth.AspNet.dll
+C:\Users\Anouer\Desktop\Cours\CSharp .Net\project\webMvcWithAngular\bin\DotNetOpenAuth.Core.dll
+C:\Users\Anouer\Desktop\Cours\CSharp .Net\project\webMvcWithAngular\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\Anouer\Desktop\Cours\CSharp .Net\project\webMvcWithAngular\bin\DotNetOpenAuth.OAuth.dll
+C:\Users\Anouer\Desktop\Cours\CSharp .Net\project\webMvcWithAngular\bin\DotNetOpenAuth.OpenId.dll
+C:\Users\Anouer\Desktop\Cours\CSharp .Net\project\webMvcWithAngular\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\Anouer\Desktop\Cours\CSharp .Net\project\webMvcWithAngular\bin\EntityFramework.dll
+C:\Users\Anouer\Desktop\Cours\CSharp .Net\project\webMvcWithAngular\bin\EntityFramework.SqlServer.dll
+C:\Users\Anouer\Desktop\Cours\CSharp .Net\project\webMvcWithAngular\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Anouer\Desktop\Cours\CSharp .Net\project\webMvcWithAngular\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\Users\Anouer\Desktop\Cours\CSharp .Net\project\webMvcWithAngular\bin\Newtonsoft.Json.dll
+C:\Users\Anouer\Desktop\Cours\CSharp .Net\project\webMvcWithAngular\bin\System.Net.Http.Formatting.dll
+C:\Users\Anouer\Desktop\Cours\CSharp .Net\project\webMvcWithAngular\bin\System.Web.Helpers.dll
+C:\Users\Anouer\Desktop\Cours\CSharp .Net\project\webMvcWithAngular\bin\System.Web.Http.dll
+C:\Users\Anouer\Desktop\Cours\CSharp .Net\project\webMvcWithAngular\bin\System.Web.Http.WebHost.dll
+C:\Users\Anouer\Desktop\Cours\CSharp .Net\project\webMvcWithAngular\bin\System.Web.Mvc.dll
+C:\Users\Anouer\Desktop\Cours\CSharp .Net\project\webMvcWithAngular\bin\System.Web.Optimization.dll
+C:\Users\Anouer\Desktop\Cours\CSharp .Net\project\webMvcWithAngular\bin\System.Web.Razor.dll
+C:\Users\Anouer\Desktop\Cours\CSharp .Net\project\webMvcWithAngular\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Anouer\Desktop\Cours\CSharp .Net\project\webMvcWithAngular\bin\System.Web.WebPages.dll
+C:\Users\Anouer\Desktop\Cours\CSharp .Net\project\webMvcWithAngular\bin\System.Web.WebPages.Razor.dll
+C:\Users\Anouer\Desktop\Cours\CSharp .Net\project\webMvcWithAngular\bin\Org.Mentalis.Security.Cryptography.dll
+C:\Users\Anouer\Desktop\Cours\CSharp .Net\project\webMvcWithAngular\bin\Mono.Math.dll
+C:\Users\Anouer\Desktop\Cours\CSharp .Net\project\webMvcWithAngular\bin\data.pdb
+C:\Users\Anouer\Desktop\Cours\CSharp .Net\project\webMvcWithAngular\bin\DotNetOpenAuth.AspNet.xml
+C:\Users\Anouer\Desktop\Cours\CSharp .Net\project\webMvcWithAngular\bin\DotNetOpenAuth.Core.xml
+C:\Users\Anouer\Desktop\Cours\CSharp .Net\project\webMvcWithAngular\bin\DotNetOpenAuth.OAuth.xml
+C:\Users\Anouer\Desktop\Cours\CSharp .Net\project\webMvcWithAngular\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\Anouer\Desktop\Cours\CSharp .Net\project\webMvcWithAngular\bin\DotNetOpenAuth.OpenId.xml
+C:\Users\Anouer\Desktop\Cours\CSharp .Net\project\webMvcWithAngular\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\Anouer\Desktop\Cours\CSharp .Net\project\webMvcWithAngular\bin\EntityFramework.xml
+C:\Users\Anouer\Desktop\Cours\CSharp .Net\project\webMvcWithAngular\bin\EntityFramework.SqlServer.xml
+C:\Users\Anouer\Desktop\Cours\CSharp .Net\project\webMvcWithAngular\bin\System.Web.Razor.xml
+C:\Users\Anouer\Desktop\Cours\CSharp .Net\project\webMvcWithAngular\bin\Newtonsoft.Json.xml
+C:\Users\Anouer\Desktop\Cours\CSharp .Net\project\webMvcWithAngular\bin\System.Net.Http.Formatting.xml
+C:\Users\Anouer\Desktop\Cours\CSharp .Net\project\webMvcWithAngular\bin\System.Web.Helpers.xml
+C:\Users\Anouer\Desktop\Cours\CSharp .Net\project\webMvcWithAngular\bin\System.Web.Http.xml
+C:\Users\Anouer\Desktop\Cours\CSharp .Net\project\webMvcWithAngular\bin\System.Web.Http.WebHost.xml
+C:\Users\Anouer\Desktop\Cours\CSharp .Net\project\webMvcWithAngular\bin\System.Web.Mvc.xml
+C:\Users\Anouer\Desktop\Cours\CSharp .Net\project\webMvcWithAngular\bin\System.Web.WebPages.xml
+C:\Users\Anouer\Desktop\Cours\CSharp .Net\project\webMvcWithAngular\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Anouer\Desktop\Cours\CSharp .Net\project\webMvcWithAngular\bin\System.Web.WebPages.Razor.xml
+C:\Users\Anouer\Desktop\Cours\CSharp .Net\project\webMvcWithAngular\bin\Org.Mentalis.Security.Cryptography.xml
+C:\Users\Anouer\Desktop\Cours\CSharp .Net\project\webMvcWithAngular\bin\Mono.Math.xml
+C:\Users\Anouer\Desktop\Cours\CSharp .Net\project\webMvcWithAngular\obj\Debug\webMvcWithAngular.csprojResolveAssemblyReference.cache
+C:\Users\Anouer\Desktop\Cours\CSharp .Net\project\webMvcWithAngular\obj\Debug\webMvcWithAngular.dll
+C:\Users\Anouer\Desktop\Cours\CSharp .Net\project\webMvcWithAngular\obj\Debug\webMvcWithAngular.pdb

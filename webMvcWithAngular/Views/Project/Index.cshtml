@@ -1,0 +1,40 @@
+﻿
+<h1>Liste des projets</h1>
+
+<div id="content" ng-controller="ProjectsController">
+    
+    <div ng-class="result" ng-model="message"></div>
+    <hr />
+
+    <button ng-click="add()">
+        Ajouter
+    </button>
+
+    <div ng-hide="!projects || projects.length==0">
+        <input type="text" ng-model="searchText"/>
+        <button ng-click="search()"> Chercher</button>
+    </div>
+    
+    <div ng-show="!projects || projects.length==0">
+        <span style="color: red">Il n'existe pas des projets à afficher!</span> 
+    </div>
+    <table class="table table-striped">
+        <tr ng-repeat="item in projects">
+            <td>{{item.ProjectId}}</td>
+            <td>{{item.Title}}</td>
+            <td>{{item.Description}}</td>
+            <td>
+                <a href="#" ng-click="edit(item)" title="Edit Record">
+                    Modifier
+                </a><a href="#" ng-click="delete(item)" title="Delete Record">
+                        Supprimer
+                    </a>
+            </td>
+           
+        </tr>
+    </table>
+</div>
+
+@section JavaScript{
+    <script src="~/App/controller/ProjectsController.js"></script>
+}
